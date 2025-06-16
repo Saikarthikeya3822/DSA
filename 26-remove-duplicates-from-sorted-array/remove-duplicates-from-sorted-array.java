@@ -13,8 +13,6 @@ class Solution {
         }
     j=j+1;
    }
-   System.out.println(c);
-   System.out.println(Arrays.toString(nums));
    return (nums.length - c);
    
     }
